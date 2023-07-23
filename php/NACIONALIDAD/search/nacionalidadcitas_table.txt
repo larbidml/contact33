@@ -1,0 +1,13 @@
+id
+fecha
+hora
+ref
+nie
+nombre
+apellido1
+departe
+precio
+pagado
+CORREO
+TEL
+nota

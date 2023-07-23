@@ -1,0 +1,55 @@
+#bodyImage1 { background-image: url("../images/form_sepageneralitat.jpg"); background-repeat: no-repeat; background-size: cover;} 
+
+
+
+
+
+
+#divfont { 
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    
+        } 
+
+
+
+#divnif { position: fixed ;  margin-left: 134px ; margin-top: 235px ;   } 
+#divnombrecompleto { position: fixed ;  margin-left: 400px ; margin-top: 235px ;   } 
+
+#divadresa { position: fixed ;  margin-left: 134px ; margin-top: 265px ;   } 
+
+#divcp { position: fixed ;  margin-left: 145px ; margin-top: 295px ;   } 
+#divCIUDAD { position: fixed ;  margin-left: 325px ; margin-top: 295px ;   } 
+#divtel1 { position: fixed ;  margin-left: 560px ; margin-top: 295px ;   } 
+
+#div_correo { position: fixed ;  margin-left: 178px ; margin-top: 325px ;   } 
+
+#div_CBANCARIA1_1 { position: fixed ;  margin-left: 108px ; margin-top: 428px ;  } 
+#div_CBANCARIA1_2 { position: fixed ;  margin-left: 127px ; margin-top: 428px ;   } 
+#div_CBANCARIA1_3 { position: fixed ;  margin-left: 150px ; margin-top: 428px ;    } 
+#div_CBANCARIA1_4 { position: fixed ;  margin-left: 170px ; margin-top: 428px ;    } 
+
+#div_CBANCARIA2_1 { position: fixed ;  margin-left: 212px ; margin-top: 428px ;   } 
+#div_CBANCARIA2_2 { position: fixed ;  margin-left: 234px ; margin-top: 428px ;    } 
+#div_CBANCARIA2_3 { position: fixed ;  margin-left: 254px ; margin-top: 428px ;    } 
+#div_CBANCARIA2_4 { position: fixed ;  margin-left: 274px ; margin-top: 428px ;   } 
+
+#div_CBANCARIA3_1 { position: fixed ;  margin-left: 318px ; margin-top: 428px ;   } 
+#div_CBANCARIA3_2 { position: fixed ;  margin-left: 338px ; margin-top: 428px ;  } 
+#div_CBANCARIA3_3 { position: fixed ;  margin-left: 360px ; margin-top: 428px ;   } 
+#div_CBANCARIA3_4 { position: fixed ;  margin-left: 380px ; margin-top: 428px ;   } 
+
+#div_CBANCARIA4_1 { position: fixed ;  margin-left: 424px ; margin-top: 428px ;  } 
+#div_CBANCARIA4_2 { position: fixed ;  margin-left: 444px ; margin-top: 428px ;  } 
+#div_CBANCARIA4_3 { position: fixed ;  margin-left: 466px ; margin-top: 428px ; } 
+#div_CBANCARIA4_4 { position: fixed ;  margin-left: 486px ; margin-top: 428px ; } 
+
+#div_CBANCARIA5_1 { position: fixed ;  margin-left: 531px ; margin-top: 428px ;  } 
+#div_CBANCARIA5_2 { position: fixed ;  margin-left: 551px ; margin-top: 428px ;  } 
+#div_CBANCARIA5_3 { position: fixed ;  margin-left: 571px ; margin-top: 428px ;   } 
+#div_CBANCARIA5_4 { position: fixed ;  margin-left: 591px ; margin-top: 428px ;   } 
+
+#div_CBANCARIA6_1 { position: fixed ;  margin-left: 636px ; margin-top: 428px ;   } 
+#div_CBANCARIA6_2 { position: fixed ;  margin-left: 656px ; margin-top: 428px ;    } 
+#div_CBANCARIA6_3 { position: fixed ;  margin-left: 676px ; margin-top: 428px ;   } 
+#div_CBANCARIA6_4 { position: fixed ;  margin-left: 696px ; margin-top: 428px ;   } 

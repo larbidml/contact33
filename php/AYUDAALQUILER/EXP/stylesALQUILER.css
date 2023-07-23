@@ -1,0 +1,30 @@
+body {
+  background-color: gray;
+
+}
+
+
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 3px;
+  
+}
+
+
+th {
+  color: white;
+  background-color: black;
+  text-align: center;
+  font-size: 14px;
+}
+
+tr:nth-child(2n) {
+  background-color: #FFEFAA;
+}
+
+tr:nth-child(2n+1) {
+  background-color: #FFFBE8;
+}
